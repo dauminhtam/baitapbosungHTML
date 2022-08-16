@@ -1,0 +1,56 @@
+*{
+    font-family: "Times New Roman";
+    padding: 0px;
+}
+#main{
+    width: 600px;
+    height: 700px;
+    background-color: dodgerblue;
+    margin: 0 auto;
+}
+.col{
+    float: left;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.col-full{
+    width: 100%;
+    padding: 10px;
+}
+#main h2{
+    margin-bottom: 50px;
+    color: white;
+    font-size: 30px;
+    font-family: Italic;
+    padding-top: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+#content{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    margin: 0px auto;
+}
+#content button{
+    border-radius: 0px;
+}
+#content .btn{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.form1{
+    margin-top: 50px;
+}
+.identify input{
+    margin-left: 20px;
+}
+form p{
+    margin-left: 20px;
+}
+form p input{
+    margin-left: 20px;
+}
+.colum1 input{
+    height: 90px;
+}
